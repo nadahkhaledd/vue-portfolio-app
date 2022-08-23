@@ -1,5 +1,10 @@
 # portfolio-app
 
+## to create a new vue project
+```
+vue create [project name]
+```
+
 ## Project setup
 ```
 yarn install
