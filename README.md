@@ -20,5 +20,17 @@ yarn build
 yarn lint
 ```
 
+## Project run
+
+### We can use the browser-sync package, which we install by running the following command
+```
+npm install –g browser-sync
+```
+
+### We can go into the dist folder, which has the built files, and run to serve the PWA.
+```
+browser-sync
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
