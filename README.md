@@ -1,5 +1,7 @@
 # portfolio-app
 
+### By following the tutorial for the book [**Vue.js3 with Example**](https://github.com/PacktPublishing/-Vue.js-3-By-Example)
+
 ## to create a new vue project
 ```
 vue create [project name]
